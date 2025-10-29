@@ -23,6 +23,9 @@ This project aims to uncover the patterns behind customer churn by analyzing dem
 ---
 
 ## 📸 Dashboard Preview
+
+[Interact with the dashboard](https://1drv.ms/x/c/ef5ea9f984d6a188/EW_Lqx5nFmRGl_o8PSGUmzEB3DO08jAFg40bRB3WmYeRfw?e=iXkm03)
+
 **Demographics Dashboard**
 
 ![Bank Customer Churn Analysis](https://github.com/AyushLekhi123/Bank-Customer-Churn-Analysis/blob/main/Demographics%20Dashboard.png)
